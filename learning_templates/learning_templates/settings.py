@@ -26,7 +26,7 @@ SECRET_KEY = 'vm-!tt7w=@ske@i4n(32&e38e_(6wy8$4gfxfw^3dg4_6etd3z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['community.pythonanywhere.com']
 
 
 # Application definition
